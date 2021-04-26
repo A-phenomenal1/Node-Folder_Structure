@@ -1,0 +1,11 @@
+{
+  "name": "clean-architecure",
+  "version": "1.0.0",
+  "description": "Clean Backend Folder Structure With Separated Buissness Layer And Service Layer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitesh Kumar",
+  "license": "MIT"
+}
